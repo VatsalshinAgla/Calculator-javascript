@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 5px;
+    text-align: center;
+  }
+  .calculator{
+    border: 1px solid rgb(14, 12, 12);
+    border-spacing: 0.1pc;
+    margin: 0pc;
+  }
+  .Trignometry{
+    border: none;
+  }
+
+  #display {
+    width: 320px;
+    height: 40px;
+    text-align: right;
+    background-color: rgb(245, 240, 240);
+    border: 3px solid white;
+    font-size: 18px;
+    left: 2px;
+    top: 2px;
+    color: #0c0e0b;
+  }
+
+  .btnTop{
+    color: rgb(3, 3, 3);
+ 
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    border:none;
+  }
+  .btnNum {
+    color: rgb(15, 12, 12);
+    background-color: rgb(238, 232, 232);
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    border:none;
+  }
+  .btnMath {
+    color: rgb(3, 1, 1);
+   
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    border:none;
+  }
+  .btnOpps {
+    color: rgb(10, 9, 9);
+    
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    border:none;
+  }
